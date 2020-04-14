@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Sneaky Restaurant - Blog Details</title>
+	<link rel="icon" href="img/Fevicon.png" type="image/png">
+
+  <link rel="stylesheet" href="vendors/bootstrap/bootstrap.min.css">
+  <link rel="stylesheet" href="vendors/themify-icons/themify-icons.css">
+  <link rel="stylesheet" href="vendors/owl-carousel/owl.theme.default.min.css">
+  <link rel="stylesheet" href="vendors/owl-carousel/owl.carousel.min.css">
+  <link rel="stylesheet" href="vendors/Magnific-Popup/magnific-popup.css">
+
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!--================ Header Menu Area start =================-->
+  <header class="header_area">
+    <div class="main_menu">
+      <nav class="navbar navbar-expand-lg navbar-light">
+        <div class="container box_1620">
+          <a class="navbar-brand logo_h" href="index.html"><img src="img/logo.png" alt=""></a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+
+          <div class="collapse navbar-collapse offset" id="navbarSupportedContent">
+            <ul class="nav navbar-nav menu_nav justify-content-end">
+              <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li> 
+              <li class="nav-item"><a class="nav-link" href="blog.html">Blog</a>
+            </ul>
+          </div> 
+        </div>
+      </nav>
+    </div>
+  </header>
+  <!--================Header Menu Area =================-->
+
+  <!--================Hero Banner Section start =================-->
+  <section class="hero-banner hero-banner-sm">
+    <div class="hero-wrapper">
+      <div class="hero-left">
+        <h1 class="hero-title">Kepiting Saus Tiram</h1>
+        <p>Kepiting dalam saus tiram atau kepiting saus tiram adalah hidangan kepiting seafood Cina yang disajikan dengan saus tiram gurih. Ini adalah hidangan populer di Asia, yang dapat ditemukan dari Cina, Indonesia, Singapura hingga Filipina.</p>
+        <ul class="hero-info d-none d-md-block">
+          <li>
+            <img src="img/banner/fas-service-icon.png" alt="">
+            <h4>Layanan Cepat</h4>
+          </li>
+          <li>
+            <img src="img/banner/fresh-food-icon.png" alt="">
+            <h4>Masakan Segar</h4>
+          </li>
+          <li>
+            <img src="img/banner/support-icon.png" alt="">
+            <h4>24/7 Support</h4>
+          </li>
+        </ul> 
+      </div>
+      
+      <div class="hero-right">
+        <div class="owl-carousel owl-theme w-100 hero-carousel">
+          <div class="hero-carousel-item">
+            <img class="img-fluid" src="img/new_img/kepiting.jpg" alt="">
+          </div>
+        </div>
+      </div>
+      <ul class="social-icons d-none d-lg-block">
+        <li><a href="https://www.youtube.com/results?search_query=seafood+indonesia"><i class="ti-youtube"></i></a></li>
+        <li><a href="#"><i class="ti-facebook"></i></a></li>
+        <li><a href="https://www.instagram.com/explore/tags/seafoodindonesia/?hl=id"><i class="ti-instagram"></i></a></li>
+      </ul>
+    </div>
+  </section>
+  <!--================Hero Banner Section end =================-->
+
+
+  <!--================Blog Area =================-->
+	<section class="blog_area single-post-area section-margin">
+			<div class="container">
+					<div class="row">
+									<div class="single-post">
+											<div class="blog_details">
+													<h2>Kandungan Gizi</h2>
+                          <ul class=" mt-2 mb-4">
+                            <li>•	Kepiting merupakan salah satu makanan yang kaya akan protein serta mineral</li>
+                            <li>•	kepiting memiliki dua jenis daging, daging berwarna putih dan cokelat. Masing-masing memiliki kandungan nutrisi yang berbeda untuk mendukung kesehatan secara keseluruhan.</li>
+                            <li>•	daging cokelat pada kepiting kaya akan kalsium yang penting bagi kesehatan tulang. Daging kepiting juga mengandung zat besi untuk membantu produksi sel darah merah serta mencegah kelelahan.</li>
+                            <li>•	Daging berwarna cokelat dan putih pada kepiting sama-sama tinggi akan tembaga, mineral yang membantu sistem imun tubuh berfungsi dengan semestinya</li>
+                            <li>•	Selain itu kepiting juga mengandung zinc, nutrisi penting untuk menjaga kesuburan, dan selenium, mineral yang berperan sebagai antioksidan sekaligus membantu melindungi sel dari kerusakan.</li>
+                          </ul>
+                        <h2>Bahan:</h2>
+                        <ul class="mt-2 mb-4">
+                            <li>•	3 Ekor kepiting sedang yang masih hidup</li>
+                            <li>•	6 Butir bawang merah</li>
+                            <li>•	6 Siung bawang putih</li>
+                            <li>•	2 cm jahe</li>
+                            <li>•	1 Sendok makan saus tiram</li>
+                            <li>•	1 Sendok makan saus sambal/tomat</li>
+                            <li>•	1 Sendok makan kecap manis</li>
+                            <li>•	1 Batang daun bawang</li>
+                            <li>•	1 Sendok makan merica bubuk</li>
+                            <li>•	Garam secukupnya</li>
+                            <li>•	Gula pasir secukupnya</li>
+                            <li>•	Minyak goreng secukupnya</li>
+                        </ul>
+                        <h2>Cara memasak kepiting saus tiram:</h2>
+                        <ul class="mt-2 mb-4">
+                            <li>1.	Jerang kepiting di dalam air mendidih. Jika kepiting sudah tidak bergerak lagi, masukkan ke dalam air dingin dan bersihkan. Bersihkan insang dan buang kotoran yang ada di dalamnya.</li>
+                            <li>2.	Cuci bersih kepiting, kemudian potong menjadi dua bagian atau remukkan agar nantinya bumbu asam manis bisa meresap.</li>
+                            <li>3.	Haluskan bawang merah, bawang putih, dan jahe. Kemudian tumis dengan sedikit minyak goreng.</li>
+                            <li>4.	Bumbui dengan saus sambal, saus tiram, garam, gula, dan merica bubuk. Tambahkan sedikit air agar bumbu tidak hangus. Masukkan kepiting, kemudian masak hingga bumbu meresap.</li>
+                            <li>5.	Setelah kepiting matang dan nanas layu, angkat masakan dari kompor. Sajikan di atas piring dan taburi dengan daun bawang yang sudah diiris halus.</li>
+                            <li>6.	Demikian cara memasak kepiting asam manis sederhana. Buatlah masakan ini dalam porsi lebih untuk dinikmati bersama keluarga.</li>
+                        </ul>
+											</div>
+                  </div>
+                    
+			</div>
+	</section>
+	<!--================Blog Area =================-->
+
+  <script src="vendors/jquery/jquery-3.2.1.min.js"></script>
+  <script src="vendors/bootstrap/bootstrap.bundle.min.js"></script>
+  <script src="vendors/owl-carousel/owl.carousel.min.js"></script>
+  <script src="vendors/nice-select/jquery.nice-select.min.js"></script>
+  <script src="vendors/Magnific-Popup/jquery.magnific-popup.min.js"></script>
+  <script src="js/jquery.ajaxchimp.min.js"></script>
+  <script src="js/mail-script.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>
