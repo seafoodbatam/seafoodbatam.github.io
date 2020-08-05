@@ -1,0 +1,36 @@
+CRITICAL - 2020-08-05 12:18:22 --> Invalid file: index.php
+#0 /home/cornoblue/www/htdocs/seafoodbatam/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 /home/cornoblue/www/htdocs/seafoodbatam/system/Common.php(1087): CodeIgniter\View\View->render('index', Array, true)
+#2 /home/cornoblue/www/htdocs/seafoodbatam/app/Controllers/Home.php(7): view('index')
+#3 /home/cornoblue/www/htdocs/seafoodbatam/system/CodeIgniter.php(914): App\Controllers\Home->index()
+#4 /home/cornoblue/www/htdocs/seafoodbatam/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 /home/cornoblue/www/htdocs/seafoodbatam/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/cornoblue/www/htdocs/seafoodbatam/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-08-05 12:18:28 --> Invalid file: index.php
+#0 /home/cornoblue/www/htdocs/seafoodbatam/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 /home/cornoblue/www/htdocs/seafoodbatam/system/Common.php(1087): CodeIgniter\View\View->render('index', Array, true)
+#2 /home/cornoblue/www/htdocs/seafoodbatam/app/Controllers/Home.php(7): view('index')
+#3 /home/cornoblue/www/htdocs/seafoodbatam/system/CodeIgniter.php(914): App\Controllers\Home->index()
+#4 /home/cornoblue/www/htdocs/seafoodbatam/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 /home/cornoblue/www/htdocs/seafoodbatam/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/cornoblue/www/htdocs/seafoodbatam/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-08-05 12:50:06 --> Invalid file: index.php
+#0 /home/cornoblue/www/htdocs/seafoodbatam/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 /home/cornoblue/www/htdocs/seafoodbatam/system/Common.php(1087): CodeIgniter\View\View->render('index', Array, true)
+#2 /home/cornoblue/www/htdocs/seafoodbatam/app/Controllers/Home.php(7): view('index')
+#3 /home/cornoblue/www/htdocs/seafoodbatam/system/CodeIgniter.php(914): App\Controllers\Home->index()
+#4 /home/cornoblue/www/htdocs/seafoodbatam/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 /home/cornoblue/www/htdocs/seafoodbatam/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/cornoblue/www/htdocs/seafoodbatam/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-08-05 13:07:02 --> Invalid file: /overview/index.php
+#0 /home/cornoblue/www/htdocs/seafoodbatam/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/overview/index...')
+#1 /home/cornoblue/www/htdocs/seafoodbatam/system/Common.php(1087): CodeIgniter\View\View->render('/overview/index', Array, true)
+#2 /home/cornoblue/www/htdocs/seafoodbatam/app/Controllers/Home.php(7): view('/overview/index')
+#3 /home/cornoblue/www/htdocs/seafoodbatam/system/CodeIgniter.php(914): App\Controllers\Home->index()
+#4 /home/cornoblue/www/htdocs/seafoodbatam/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 /home/cornoblue/www/htdocs/seafoodbatam/system/CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/cornoblue/www/htdocs/seafoodbatam/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
